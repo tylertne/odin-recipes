@@ -44,5 +44,11 @@ ul li{
 .mainlink{
     text-align: center;
 }
+.mainlink a:hover{
+    color: orange
+}
+em:hover{
+    color: lightgreen;
+}
 
 
